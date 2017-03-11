@@ -1,0 +1,14 @@
+<!--<view>
+<button type="primary" bindtouchstart = "mytouchstart" bindtouchend = "mytouchend">点我啊</button>
+</view>-->
+
+<!--<view>
+<canvas style="width: 375px; height: 500px;" canvas-id="firstCanvas" bindtouchstart="mytouchstart" bindtouchend="mytouchend">
+</canvas>
+</view>-->
+
+<view bindtouchstart="mytouchstart" bindtouchend="mytouchend">
+<canvas style="width: 375px; height: 500px;" canvas-id="firstCanvas" >
+</canvas>
+</view>
+
